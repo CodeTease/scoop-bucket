@@ -1,22 +1,22 @@
 {
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "A dummy CLI tool",
   "homepage": "https://github.com/CodeTease/cli-dummy",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/CodeTease/cli-dummy/releases/download/v0.4.0/cli-dummy-0.4.0-x86_64-pc-windows-msvc.zip",
-      "hash": "6859a9aaef3cf15f28b5eb1c85b8d63427bca3292b11543b824f859efc0c149c",
+      "url": "https://github.com/CodeTease/cli-dummy/releases/download/v0.4.1/cli-dummy-0.4.1-x86_64-pc-windows-msvc.zip",
+      "hash": "2ed2eeaed752ee0326d73770f22bd7fe7e26c9220050fb37b72e1a169f1476d0",
       "bin": "cli-dummy.exe"
     },
     "32bit": {
-      "url": "https://github.com/CodeTease/cli-dummy/releases/download/v0.4.0/cli-dummy-0.4.0-i686-pc-windows-msvc.zip",
-      "hash": "f91a35cd37f2df3ad554e6a8edc548adfb4996385ef1a0ec99540527a5cec67a",
+      "url": "https://github.com/CodeTease/cli-dummy/releases/download/v0.4.1/cli-dummy-0.4.1-i686-pc-windows-msvc.zip",
+      "hash": "7b14f35c9ec36cd21fe000ca50789ec4028dc99177b0b5bb3e1225ff2666fce7",
       "bin": "cli-dummy.exe"
     },
     "arm64": {
-      "url": "https://github.com/CodeTease/cli-dummy/releases/download/v0.4.0/cli-dummy-0.4.0-aarch64-pc-windows-msvc.zip",
-      "hash": "d5b33f50c03feb3d92628b765e708220ccb5212d5865dc203810c73076e94acb",
+      "url": "https://github.com/CodeTease/cli-dummy/releases/download/v0.4.1/cli-dummy-0.4.1-aarch64-pc-windows-msvc.zip",
+      "hash": "4af269078c784e3bddcce439a36bd052a6ca561d7fd93d0ef83f3f135949eba4",
       "bin": "cli-dummy.exe"
     }
   },
